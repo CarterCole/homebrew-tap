@@ -2,7 +2,6 @@
 class Bond < Formula
   desc "Combine several internet connections into one for live streaming"
   homepage "https://github.com/CarterCole/bond"
-  version "0.1.0"
   license "AGPL-3.0-only"
 
   on_macos do
