@@ -1,3 +1,5 @@
+![HOMEBREW-TAP](.github/banner.png)
+
 # CarterCole's Homebrew tap
 
 ```bash
